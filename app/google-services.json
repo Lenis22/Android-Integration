@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902492394825",
+    "project_id": "clevertap-e1179",
+    "storage_bucket": "clevertap-e1179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902492394825:android:00217763882cc3c1333698",
+        "android_client_info": {
+          "package_name": "com.example.clevertap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902492394825-ctodc8q3ouvrsc3nhh2v097sa1eo5lv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglJTm9UXczoYeVKBlRyJ1co8knKrkepw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902492394825-ctodc8q3ouvrsc3nhh2v097sa1eo5lv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
